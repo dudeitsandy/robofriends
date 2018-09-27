@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Robot Generating App using React
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2484,3 +2485,6 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+React App that returns robots to demo functionality for contact website
+>>>>>>> 341cc608b7f909a13787147e488e49635e84d081
